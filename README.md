@@ -1,4 +1,4 @@
-# 📈 Marketing-Attribution-Modeling-with-Markov-Chains-in-R
+# 📈 Marketing-Attribution-ModeLling-with-Markov-Chains-in-R
 
 *   **Purpose**: This R code implements Markov Chain models for marketing attribution, helping to understand the impact of different marketing channels on conversions. It also compares Markov Chain attribution with rule-based models like First Touch, Last Touch, and Linear Touch.
 
